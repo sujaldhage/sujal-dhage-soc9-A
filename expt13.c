@@ -1,4 +1,4 @@
-include <stdio.h>
+#include <stdio.h>
 int main() {
 int A[10][10], B[10][10], C[10][10];
 int rows, cols, i, j;
